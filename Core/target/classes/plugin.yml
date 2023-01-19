@@ -1,0 +1,16 @@
+name: Core
+version: 'alpha-1.0'
+main: pl.delfinio.core.Main
+api-version: 1.15
+authors: [ delfinio ]
+description: zajebista wtyczunia :D
+website: https://github.com/delfinio
+
+commands:
+  invsee:
+  bc:
+  tpa:
+  msg:
+  rl:
+  whois:
+  restart:
